@@ -5,7 +5,7 @@ import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.util.Scanner;
 
-public class StudentApp {
+public class InsertStudent {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
